@@ -1,6 +1,16 @@
 
 ---
 
+- title: PRCV
+  year: 2019
+  id: prcvl19
+  link: http://prcv-conf.org/2019
+  deadline: '2019-04-115 23:59:59'
+  timezone: Etc/GMT-12
+  date: Nov 8-11, 2019
+  place: XI'AN, China
+  sub: CV
+  
 - title: ICML
   year: 2019
   id: icml19
