@@ -3,7 +3,7 @@
 
 - title: FG-CCF RANK C
   year: 2020
-  id: FG2020
+  id: FG
   link: https://fg2020.org
   deadline: '2019-09-27 23:59:59'
   timezone: Etc/GMT+8
@@ -13,7 +13,7 @@
 
 - title: IJCB-CCF RANK C
   year: 2020
-  id: IJCB 2020
+  id: IJCB
   link: https://ieee-biometrics.org/ijcb2020
   deadline: '2019-12-09 23:59:59'
   timezone: Etc/GMT+8
@@ -23,7 +23,7 @@
   
 - title: ICME -CCF RANK B
   year: 2020
-  id: ICME 2020
+  id: ICME
   link: http://www.2020.ieeeicme.org
   deadline: '2019-11-29 23:59:59'
   timezone: Etc/GMT+8
@@ -33,7 +33,7 @@
   
 - title: ICPR -CCF RANK C
   year: 2020
-  id: ICPR 2020
+  id: ICPR
   link: https://www.icpr2020.it/
   deadline: '2020-03-02 23:59:59'
   timezone: Etc/GMT+8
