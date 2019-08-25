@@ -1,5 +1,6 @@
 
 ---
+
 - title: FG-CCF RANK C
   year: 2020
   id: FG2020
@@ -9,6 +10,7 @@
   date: May 18-22, 2020
   place: Buenos Aires, Argentina
   sub: CV
+  
 - title: IJCB-CCF RANK C
   year: 2020
   id: IJCB 2020
@@ -18,6 +20,7 @@
   date: Sep 27-30, 2020
   place: Houston, US
   sub: CV
+  
 - title: ICME -CCF RANK B
   year: 2020
   id: ICME 2020
@@ -27,6 +30,7 @@
   date: July 6-10, 2020
   place: London, UK
   sub: CV
+  
 - title: ICPR -CCF RANK C
   year: 2020
   id: ICPR 2020
